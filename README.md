@@ -1,2 +1,2 @@
-# Dickey–Fuller-test
- Dickey–Fuller test for unit root test in AR process
+# Dickey–Fuller Unit Root Test Simulation
+ Simulating Dickey–Fuller test for unit root behaviors in AR(p) time series process
